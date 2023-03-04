@@ -74,7 +74,7 @@ export default function Home() {
 
         </Text>
         <br></br>
-        <h2 align ='center' >Incentive Process, under way...</h2>
+        <h2>Incentive Process, under way...</h2>
         <Text>
         Order a Compost Kit and send it to your decider reception.
         <br></br>
